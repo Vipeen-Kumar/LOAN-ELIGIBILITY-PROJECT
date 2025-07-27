@@ -45,3 +45,16 @@ The Loan Eligibility Project is a machine learning-based application designed to
 ## Notes
 - Ensure that the `models/` directory contains the pre-trained models before running the application.
 - Modify the dataset or retrain the models as needed using the provided notebook.
+
+## Screenshot :
+
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/6f697222-81d3-4594-9913-90917188d297" />
+
+<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/b4dddfd4-5b5b-4b0a-98af-4250d8f9307e" />
+
+<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/13f325e8-d115-41d9-b4de-631a860d21e0" />
+
+<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/6d5db69b-b369-49f3-b623-dcb2c1108361" />
+
+
+
